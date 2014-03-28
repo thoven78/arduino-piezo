@@ -1,0 +1,15 @@
+{
+  "name": "arduino-piezo",
+  "version": "0.0.0",
+  "description": "Buzz a piezo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stevenson Michel <thoven87@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^0.9.16",
+    "express": "^3.5.1"
+  }
+}
